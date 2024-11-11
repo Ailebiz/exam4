@@ -80,4 +80,4 @@
 
 
 // alert("Ең үлкен сан: " + maxNumber - minNumber  );
-// // alert("Aiyrymy"= maxNumber - minNumber )
+
